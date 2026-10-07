@@ -1,0 +1,50 @@
+[
+  {
+    "tanggal": "2026-10-07 22:39:14",
+    "username": "admin",
+    "aktivitas": "Login",
+    "detail": "User berhasil login"
+  },
+  {
+    "tanggal": "2026-10-07 22:40:13",
+    "username": "admin",
+    "aktivitas": "Logout",
+    "detail": "User keluar dari sistem"
+  },
+  {
+    "tanggal": "2026-10-07 22:40:20",
+    "username": "admin",
+    "aktivitas": "Login",
+    "detail": "User berhasil login"
+  },
+  {
+    "tanggal": "2026-10-07 22:52:33",
+    "username": "admin",
+    "aktivitas": "Buat Invoice",
+    "detail": "INV-NGM-00001 | Klien: PT Braja Mukti Cakra"
+  },
+  {
+    "tanggal": "2026-10-07 22:54:03",
+    "username": "admin",
+    "aktivitas": "Login",
+    "detail": "User berhasil login"
+  },
+  {
+    "tanggal": "2026-10-07 22:54:38",
+    "username": "admin",
+    "aktivitas": "Buat Invoice",
+    "detail": "INV-NGM-00002 | Klien: PT Braja Mukti Cakra"
+  },
+  {
+    "tanggal": "2026-10-07 23:00:36",
+    "username": "admin",
+    "aktivitas": "Buat Quotation / Penawaran",
+    "detail": "INV-NGM-00003 | Klien: PT Braja Mukti Cakra"
+  },
+  {
+    "tanggal": "2026-10-07 23:03:02",
+    "username": "admin",
+    "aktivitas": "Login",
+    "detail": "User berhasil login"
+  }
+]

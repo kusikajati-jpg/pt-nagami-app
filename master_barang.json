@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Insert 0,5mm",
+        "harga": 5000.0,
+        "stok": 30,
+        "stok_awal": 30,
+        "kelola_stok": true
+    },
+    {
+        "nama": "Insert 1,5mm",
+        "harga": 7000.0,
+        "stok": 20,
+        "stok_awal": 20,
+        "kelola_stok": true
+    },
+    {
+        "nama": "Insert 2,5mm",
+        "harga": 9000.0,
+        "stok": 10,
+        "stok_awal": 10,
+        "kelola_stok": true
+    }
+]

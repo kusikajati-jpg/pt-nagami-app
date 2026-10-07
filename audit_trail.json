@@ -1,0 +1,20 @@
+[
+    {
+        "waktu": "07-10-2026 20:53:10",
+        "user": "admin",
+        "aksi": "BUAT DOKUMEN",
+        "detail": "Membuat Invoice nomor 031/INV-NGM/X/26 untuk klien PT Braja Mukti Cakra"
+    },
+    {
+        "waktu": "07-10-2026 20:53:52",
+        "user": "admin",
+        "aksi": "KIRIM EMAIL",
+        "detail": "Mengirim dokumen 031/INV-NGM/X/26 ke kyt@nagami.co.id"
+    },
+    {
+        "waktu": "07-10-2026 21:11:00",
+        "user": "admin",
+        "aksi": "BUAT DOKUMEN",
+        "detail": "Membuat Invoice nomor 032/INV-NGM/X/26 untuk klien PT Braja Mukti Cakra"
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "Invoice": {
+        "judul_dokumen": "INVOICE",
+        "tampilkan_customer": true,
+        "tampilkan_harga": true,
+        "catatan_footer": "Pembayaran dianggap lunas apabila Cek/Giro/Transfer telah dibukukan di Bank kami sbb:<br/><b>BANK MANDIRI, KCP BEKASI PEJUANG</b><br/><b>A/N : PT NATA GATRA MITRA</b><br/><b>A/C : 156-00-2832490-5</b>"
+    },
+    "Quotation / Penawaran": {
+        "judul_dokumen": "QUOTATION",
+        "tampilkan_customer": true,
+        "tampilkan_harga": true,
+        "catatan_footer": "Thank you for your kind attention and we are looking forward to your order soon."
+    },
+    "Surat Jalan": {
+        "judul_dokumen": "SURAT JALAN",
+        "tampilkan_customer": true,
+        "tampilkan_harga": false,
+        "catatan_footer": "Barang-barang tersebut telah diterima dalam keadaan baik dan cukup."
+    },
+    "Purchase Order": {
+        "judul_dokumen": "PURCHASE ORDER",
+        "tampilkan_customer": true,
+        "tampilkan_harga": true,
+        "catatan_footer": ""
+    },
+    "Tanda Terima": {
+        "judul_dokumen": "TANDA TERIMA",
+        "tampilkan_customer": true,
+        "tampilkan_harga": true,
+        "catatan_footer": "Telah diterima dokumen / pembayaran dengan baik dan sah."
+    }
+}

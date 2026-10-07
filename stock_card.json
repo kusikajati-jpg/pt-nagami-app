@@ -1,0 +1,38 @@
+[
+    {
+        "id": "OPEN-20261007202055456757",
+        "tanggal": "07-10-2026",
+        "jenis": "SALDO AWAL",
+        "referensi": "OPENING",
+        "barang": "Insert 0,5mm",
+        "qty_masuk": 30,
+        "qty_keluar": 0,
+        "saldo": 30,
+        "user": "admin",
+        "keterangan": "Saldo stok awal saat migrasi Tahap 2A"
+    },
+    {
+        "id": "OPEN-20261007202055457472",
+        "tanggal": "07-10-2026",
+        "jenis": "SALDO AWAL",
+        "referensi": "OPENING",
+        "barang": "Insert 1,5mm",
+        "qty_masuk": 20,
+        "qty_keluar": 0,
+        "saldo": 20,
+        "user": "admin",
+        "keterangan": "Saldo stok awal saat migrasi Tahap 2A"
+    },
+    {
+        "id": "OPEN-20261007202055457511",
+        "tanggal": "07-10-2026",
+        "jenis": "SALDO AWAL",
+        "referensi": "OPENING",
+        "barang": "Insert 2,5mm",
+        "qty_masuk": 10,
+        "qty_keluar": 0,
+        "saldo": 10,
+        "user": "admin",
+        "keterangan": "Saldo stok awal saat migrasi Tahap 2A"
+    }
+]
