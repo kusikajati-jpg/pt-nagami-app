@@ -1675,7 +1675,11 @@ elif menu == "Backup/Restore":
         "config": load_data(FILE_CONFIG), "counter": _load_counter_dokumen(),
     }
     st.download_button("📥 Download Backup JSON", data=json.dumps(all_data, indent=4, ensure_ascii=False), file_name="backup_nagami.json", mime="application/json")
-
+if st.button("🔄 Reset Nomor Urut Dokumen ke 0"):
+    if os.path.exists(FILE_COUNTER):
+        os.remove(FILE_COUNTER)
+    st.success("Counter dokumen berhasil direset! Dokumen baru akan mulai dari nomor 001.")
+    st.rerun()
 
 # --- 9. MENU: PENGATURAN PERUSAHAAN & LOGO ---
 elif menu == "Pengaturan Perusahaan & Logo":
